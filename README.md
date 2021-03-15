@@ -24,7 +24,7 @@
   > $ git clone https://github.com/louiesch/HairSalon.Solution
 * _In the terminal navigate to and open project directory_
   > cd HairSalon.Solution
-* _Navivate to production directory_
+* _Navigate to production directory_
   > cd HairSalon
 * _Create a file in production folder called appsettings.json_
   > touch appsettings.json
