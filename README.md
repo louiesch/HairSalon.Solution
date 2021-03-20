@@ -46,7 +46,7 @@
 
 * _In the Navigator, select the Administration tab and then select Data Import/Restore_
 
-* _Under Import Options, select Import From Self-Contained File, and then select the "louie_schoenknecht.sql" file which can be found in HairSalon.Solution_
+* _Under Import Options, select Import From Self-Contained File, and then select the "louie_schoenknecht_salon.sql" file which can be found in HairSalon.Solution_
 
 * _In the Default Schema to be Imported To option, select New_
 
